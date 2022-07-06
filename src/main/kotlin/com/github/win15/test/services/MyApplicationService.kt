@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.win15.test.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.win15.test.MyBundle
 
 class MyApplicationService {
 
